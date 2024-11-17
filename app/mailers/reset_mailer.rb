@@ -1,0 +1,3 @@
+class ResetMailer < ApplicationMailer
+  
+end
